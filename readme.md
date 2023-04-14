@@ -29,3 +29,10 @@ Os projetos desse repositório foram desenvolvidos para o evento `PyStack Week 6
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
+## Comandos básicos
+
+- `venv\Scripts\Activate` -> Ativar o ambiente virtual
+- `python manage.py runserver` -> Iniciar o servidor
+- `python manage.py makemigrations` ->
+- `python manage.py migrate` ->
